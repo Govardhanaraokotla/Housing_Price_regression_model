@@ -1,7 +1,7 @@
 # TAIRP-TASK1 (LEVEL-2)
 Housing Price Regression - This is a Project completed during my Data Science Internship with TECH-A-INTERN
 
-The data set can be downloaded from Link : 
+The data set can be downloaded from Link : https://github.com/Govardhanaraokotla/TAIIP-TASK-2/blob/main/housing.csv
 
 #### Name : KOTLA GOVARDHANARAO
 #### Designation : Data Science Intern  
